@@ -3,7 +3,7 @@
 Welcome to the official repository of **A Success School** — a premium, high-fidelity, futuristic residential science school web portal. Designed with cutting-edge visual aesthetics, smooth cinematic animations, glassmorphism UI/UX cards, and advanced SEO/routing architecture.
 
 ---
-
+# live demo site - https://a-success-school.vercel.app/
 ## 🚀 Technology Stack
 
 This application is engineered with a modern high-performance web stack:
