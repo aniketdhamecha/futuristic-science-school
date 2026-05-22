@@ -1,0 +1,14 @@
+# https://a-success-school.vercel.app/ robots.txt
+# Crawler configuration for A Success School
+
+User-agent: *
+Allow: /
+
+# Disallow admin paths or system assets if applicable
+Disallow: /eslint.config.js
+Disallow: /postcss.config.js
+Disallow: /tailwind.config.js
+Disallow: /vite.config.js
+
+# Sitemap coordinate pointer
+Sitemap: https://a-success-school.vercel.app/sitemap.xml
